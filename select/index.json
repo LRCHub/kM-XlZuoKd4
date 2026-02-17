@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "FLARE (English version)",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-02-17T12:50:47.766979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FLARE (English version)",
+      "artist": "Cö Shu Nie",
+      "has_synced": false,
+      "path": "select/01_FLARE_(English_version)_Cö_Shu_Nie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cö shu Nie – FLARE (English version / Lyric Video )",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/02_Cö_shu_Nie_–_FLARE_(English_version___Lyric_Video_)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLARE (English ver.)",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/03_FLARE_(English_ver.)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLARE - English version",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_FLARE_-_English_version_Cö_shu_Nie.txt"
+    }
+  ]
+}
